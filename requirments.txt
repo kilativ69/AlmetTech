@@ -1,1 +1,1 @@
-pip install PyQt6 matplotlib pandas numpy scipy
+pip install PyQt6 matplotlib pandas numpy scipy scikit-learn openpyxl rarfile
